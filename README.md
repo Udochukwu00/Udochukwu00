@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Udochukwu00
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Udochukwu
+- 👀 I’m interested in React
+- 🌱 I’m currently learning React Native
+- 💞️ I’m looking to collaborate with other develpers
+- 📫 How to reach me 
 
 <!---
 Udochukwu00/Udochukwu00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
